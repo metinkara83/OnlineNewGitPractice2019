@@ -3,4 +3,5 @@ Audi A8
 Tesla
 BMW 3.30
 BMW X6
+Kia Optima
 Mercedes S550
